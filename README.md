@@ -1,5 +1,4 @@
 ### Hi there Im Ahmed👋
-
 Here is a little bit about me;
 - 🔭 I’m currently working on gaining a degree from university
 - 🌱 I’m currently learning Java, PHP, HTML & SQL
