@@ -1,7 +1,7 @@
 ### Hi there Im Ahmed👋
 Here is a little bit about me;
 - 🔭 I’m currently working on gaining a Software Engineering Degree 
-- 🌱 I’m currently learning Java, PHP, HTML & SQL
+- 🌱 I’m currently learning Java, JavaScript, PHP, HTML, SQL & MongoDB
 - 👯 I’m looking to collaborate on any projects within these fields.
 - 🤔 I’m looking for help with gaining experience for future jobs.
 - 💬 Ask me about anything.
